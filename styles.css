@@ -35,9 +35,10 @@ a.topLink {
 	color: white;
 	background: none;
 	border: none;
-	opacity: 0.5;
+	opacity: 0;
 	text-align: left;
 	transition: 0.3s;
+	padding-left: 50px;
 }
 
 button {
@@ -64,9 +65,32 @@ img.linkedIn{
 
 #opener {
 	font-size: 30px;
+	padding-left: 40px;
+	padding-right: 100px;
+}
+
+#workHistDiv {
+	padding-left: 40px;
+	padding-right: 200px;
+	padding-top: 100px;
+}
+
+.maximus {
+	width: auto;
+	height: 40px;
 }
 
 .SAP {
-	width: 200px;
-	height: auto;
+	width: auto;
+	height: 40px;
+}
+
+.UBC {
+	width: auto;
+	height: 40px;
+}
+
+.GDMS {
+	width: auto;
+	height: 40px;
 }
