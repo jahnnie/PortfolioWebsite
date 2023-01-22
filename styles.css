@@ -1,0 +1,72 @@
+html {
+	background-color: #022D36;
+}
+
+body {
+	font-family: "Georgia";
+	color: white;
+}
+
+header {
+	font-size: 25px;
+}
+
+div.headerDiv {
+	display: flex;
+	justify-content: space-between;
+	align-items: left;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a.topLink {
+	font-size: 25px;
+}
+
+#buttons {
+	width: 20%;
+	display: flex;
+	flex-direction: column;
+	font-family: "Georgia";
+	font-size: 20px;
+	color: white;
+	background: none;
+	border: none;
+	opacity: 0.5;
+	text-align: left;
+	transition: 0.3s;
+}
+
+button {
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+	background: inherit;
+	border: inherit;
+	opacity: inherit;
+	text-align: inherit;
+	transition: inherit;
+}
+
+#buttons button:hover {
+	opacity: 0.6;
+}
+
+img.linkedIn{
+	width: 20px;
+	height:20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#opener {
+	font-size: 30px;
+}
+
+.SAP {
+	width: 200px;
+	height: auto;
+}
