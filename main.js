@@ -39,10 +39,13 @@ function myFunction(clickedId){
 			window.location.href="workHistory.html"
 		}
 		else if(clickedId == "btn2"){
+			window.location.href="projects.html"
 		}
 		else if(clickedId == "btn3"){
+			window.location.href="about.html"
 		}
 		else if(clickedId == "btn4"){
+			window.location.href="placeholder.html"
 		}
 		else{
 			//console.log("failure or duplicate");
