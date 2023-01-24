@@ -1,4 +1,4 @@
-const mainPara = 'My expertise include project coordination, business analysis, and software development in several industries. My passions currently lie in blockchain technology and I am actively pursuing a career in this space.'
+const mainPara = "I am a business technology consultant with expertise in project coordination, business analysis, and software development across several industries. My passions lie in blockchain technology and I am actively pursuing a career in this space.";
 
 
 let i = 0;
